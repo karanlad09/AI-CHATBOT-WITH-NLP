@@ -65,3 +65,5 @@ You: What’s your name?
 Chatbot: I'm just a friendly chatbot without a name! 😊
 
 ## OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/fe14f845-4f66-4494-a549-c7ce97ddfafb)
